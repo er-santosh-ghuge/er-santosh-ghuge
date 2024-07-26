@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Santosh Ghuge
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on Analytical Jobs
-- 📫 Contact Me @santoshghuge.sit.comp@gmail.com
+- 👀 I’m interested in Software Development 
+- 🌱 I’m Computer Engineering 2024 Batch Passout
+- 💞️ I’m looking to collaborate on Development Jobs
+- 📫 Contact Me @er.santosh.ghuge@gmail.com
 
 
 <!---
